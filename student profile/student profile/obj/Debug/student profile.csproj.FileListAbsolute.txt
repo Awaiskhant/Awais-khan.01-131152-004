@@ -1,0 +1,19 @@
+c:\users\awais khan\documents\visual studio 2013\Projects\student profile\student profile\bin\Debug\student profile.exe.config
+c:\users\awais khan\documents\visual studio 2013\Projects\student profile\student profile\obj\Debug\student profile.csprojResolveAssemblyReference.cache
+c:\users\awais khan\documents\visual studio 2013\Projects\student profile\student profile\obj\Debug\student_profile.Form1.resources
+c:\users\awais khan\documents\visual studio 2013\Projects\student profile\student profile\obj\Debug\student_profile.Properties.Resources.resources
+c:\users\awais khan\documents\visual studio 2013\Projects\student profile\student profile\obj\Debug\student_profile.student_data.resources
+c:\users\awais khan\documents\visual studio 2013\Projects\student profile\student profile\obj\Debug\student profile.csproj.GenerateResource.Cache
+c:\users\awais khan\documents\visual studio 2013\Projects\student profile\student profile\bin\Debug\student profile.exe
+c:\users\awais khan\documents\visual studio 2013\Projects\student profile\student profile\bin\Debug\student profile.pdb
+c:\users\awais khan\documents\visual studio 2013\Projects\student profile\student profile\obj\Debug\student profile.exe
+c:\users\awais khan\documents\visual studio 2013\Projects\student profile\student profile\obj\Debug\student profile.pdb
+C:\Users\Awais khan\documents\visual studio 2013\Projects\student profile\student profile\obj\Debug\student_profile.search_form.resources
+C:\Users\Awais khan\documents\visual studio 2013\Projects\student profile\student profile\obj\Debug\student_profile.get_details.resources
+C:\Users\Awais khan\documents\visual studio 2013\Projects\student profile\student profile\obj\Debug\student_profile.delete_record.resources
+C:\Users\Awais khan\documents\visual studio 2013\Projects\student profile\student profile\obj\Debug\student_profile.GPA.resources
+C:\Users\Awais khan\documents\visual studio 2013\Projects\student profile\student profile\obj\Debug\student_profile.markattendance.resources
+C:\Users\Awais khan\documents\visual studio 2013\Projects\student profile\student profile\obj\Debug\student_profile.view_attendance.resources
+C:\Users\Awais khan\documents\visual studio 2013\Projects\student profile\student profile\bin\Debug\Attendance.txt
+C:\Users\Awais khan\documents\visual studio 2013\Projects\student profile\student profile\bin\Debug\student_data.txt
+C:\Users\Awais khan\documents\visual studio 2013\Projects\student profile\student profile\bin\Debug\student_data_gpa.txt
