@@ -1,0 +1,9 @@
+c:\users\awais khan\documents\visual studio 2013\Projects\image editor app\image editor app\bin\Debug\image editor app.exe.config
+c:\users\awais khan\documents\visual studio 2013\Projects\image editor app\image editor app\obj\Debug\image editor app.csprojResolveAssemblyReference.cache
+c:\users\awais khan\documents\visual studio 2013\Projects\image editor app\image editor app\obj\Debug\image_editor_app.Form1.resources
+c:\users\awais khan\documents\visual studio 2013\Projects\image editor app\image editor app\obj\Debug\image_editor_app.Properties.Resources.resources
+c:\users\awais khan\documents\visual studio 2013\Projects\image editor app\image editor app\obj\Debug\image editor app.csproj.GenerateResource.Cache
+c:\users\awais khan\documents\visual studio 2013\Projects\image editor app\image editor app\bin\Debug\image editor app.exe
+c:\users\awais khan\documents\visual studio 2013\Projects\image editor app\image editor app\bin\Debug\image editor app.pdb
+c:\users\awais khan\documents\visual studio 2013\Projects\image editor app\image editor app\obj\Debug\image editor app.exe
+c:\users\awais khan\documents\visual studio 2013\Projects\image editor app\image editor app\obj\Debug\image editor app.pdb
